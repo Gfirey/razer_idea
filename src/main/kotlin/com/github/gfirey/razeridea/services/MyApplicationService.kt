@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.gfirey.razeridea.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.gfirey.razeridea.MyBundle
 
 class MyApplicationService {
 
